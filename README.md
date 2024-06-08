@@ -36,4 +36,4 @@
 <br> - :trophy: 2nd place winner of TGC's Challenge @ HackMIT, Awardee of 2023 Sunwood Art Exhibition
 
 <h2 align="left">🙌 Let's get connected:</h2>
-<img href="https://www.linkedin.com/in/choi-ying-yau/" rel="nofollow noreferrer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40">
+<a href="https://www.linkedin.com/in/choi-ying-yau/" rel="nofollow noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"> </a>
