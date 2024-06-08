@@ -5,6 +5,8 @@
  </abc>
 </h2>
 
+<img src="https://github.com/ChoiYingY/ChoiYingY/blob/main/greeting.gif" width="50vw">
+
 <h2 align="left">:hammer_and_wrench: Technologies & Tools I use:</h2>
 
 <p align="left">
@@ -33,5 +35,5 @@
 <br> - 🌱 I'm currently learning Japanese
 <br> - :trophy: 2nd place winner of TGC's Challenge @ HackMIT, Awardee of 2023 Sunwood Art Exhibition
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">🙌 Let's get connected:</h2>
 <img href="https://www.linkedin.com/in/choi-ying-yau/" rel="nofollow noreferrer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40">
